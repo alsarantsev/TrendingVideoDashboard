@@ -4,7 +4,7 @@
 <p>Project include:
 <li><a href="https://public.tableau.com/views/DashForTrendVid_Sarantsev/TrendingVideosDash?:language=en-US&:display_count=n&:origin=viz_share_link">Link to the Tableau</a>
 <li>Dataset</li>
-<li>Quick presentation with conclusion</li> </p>
+<li><a href="ShortReportPres.pdf">Quick presentation with conclusion<a></li> </p>
 
 <p><b>Applied skills:</b> Data manipulation, Data Storytelling, Tableau
   

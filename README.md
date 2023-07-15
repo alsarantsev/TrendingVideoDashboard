@@ -6,7 +6,7 @@
 <li>Dataset</li>
 <li>Quick presentation with conclusion</li> </p>
 
-<p><b>Applied skills:</b> Data manipulation, 
+<p><b>Applied skills:</b> Data manipulation, Data Storytelling, Tableau
   
  **Note:** This project is a part of the <a href="https://practicum.com/en-isr/data-analyst/">Practicum Data Analysis program</a></p>
 
